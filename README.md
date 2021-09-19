@@ -17,4 +17,8 @@ We recieved two csv files to begin analysis, one of which contains personal iden
 
 The primary python package we are using for analysis is pandas due to it's strength in handling large amounts of data like we have, and the ease of analysis due to many of the methods and functions contained within the package. Using pandas allows us to read in the csvs directly as dataframes and begin analysis immediately. The data is first cleaned to remove any unnecessary prefixes or suffixes on names, such as Mr or Ms. We further vet our data by checking for any missing data entries and that every columns contains the correct data type. Once the data is validated we merge the two dataframes created by importing the csvs to create one data frame that is a summary of the full school district. 
 
+### Results
+
+![District Summary](https://github.com/roeggealissa/school-district-analysis/blob/d04819cc8ee614b34ef11fe05695b4915c03aaab/Screen%20Shot%202021-09-19%20at%202.09.32%20PM.png)
+
 
