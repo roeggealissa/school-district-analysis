@@ -21,6 +21,9 @@ The primary python package we are using for analysis is pandas due to it's stren
 
 ### Results
 
-![District Summary](https://github.com/roeggealissa/school-district-analysis/blob/d04819cc8ee614b34ef11fe05695b4915c03aaab/Screen%20Shot%202021-09-19%20at%202.09.32%20PM.png)
+![District Summary without changes](https://github.com/roeggealissa/school-district-analysis/blob/57c3db68172dc3e71798edd02e348aa8777211df/Screen%20Shot%202021-09-19%20at%202.25.16%20PM.png)
+![District Summary with changes](https://github.com/roeggealissa/school-district-analysis/blob/d04819cc8ee614b34ef11fe05695b4915c03aaab/Screen%20Shot%202021-09-19%20at%202.09.32%20PM.png)
 
 The district summary once Thomas High School is removed has some changes. The number of students has decreased as well as the average math score. The total students is decreased since we are not counting Thomas High School 9th grade students. The average math score dropped by .1 within our formatting bounds, so the actual change may be smaller but with rounding it's .1. This shows that the Thomas High School 9th graders are performing at or above average math level scores.
+
+
