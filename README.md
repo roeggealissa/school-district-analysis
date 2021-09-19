@@ -43,3 +43,5 @@ The first chart displays the statistics of the top five schools without any stud
 
 ![Removal math](https://github.com/roeggealissa/school-district-analysis/blob/362dd84abc2cc63180731c400949195ec5523f91/math_scores_with_removal.png)
 ![Removal reading](https://github.com/roeggealissa/school-district-analysis/blob/362dd84abc2cc63180731c400949195ec5523f91/reading_score_with_removal.png)
+
+The first two of the four charts above are the average scores per grade level of math and reading respectively without the removal of the Thomas High School ninth graders. The last two charts of the four charts above are the average math and reading scores of the grades per school with the removal of the Thomas High School ninth graders. The removal of the Thomas High School ninth graders does not affect anything in this section as it is their specific value being removed. Their value does not factor into calculating the average scores of other schools or grades.
