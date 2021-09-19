@@ -37,3 +37,9 @@ The first of the two charts above details the per school summary of performance 
 
 The first chart displays the statistics of the top five schools without any students removed. The second chart displays the statistics of the top five schools with the ninth graders of Thomas High School removed. There is statistically no difference between the performance of Thomas High School relative to other schools with and without the 9th grade students included.
 
+
+![No removal math](https://github.com/roeggealissa/school-district-analysis/blob/362dd84abc2cc63180731c400949195ec5523f91/math_score_no_removal.png)
+![No removal reading](https://github.com/roeggealissa/school-district-analysis/blob/362dd84abc2cc63180731c400949195ec5523f91/reading_score_no_removal.png)
+
+![Removal math](https://github.com/roeggealissa/school-district-analysis/blob/362dd84abc2cc63180731c400949195ec5523f91/math_scores_with_removal.png)
+![Removal reading](https://github.com/roeggealissa/school-district-analysis/blob/362dd84abc2cc63180731c400949195ec5523f91/reading_score_with_removal.png)
