@@ -45,3 +45,19 @@ The first chart displays the statistics of the top five schools without any stud
 ![Removal reading](https://github.com/roeggealissa/school-district-analysis/blob/362dd84abc2cc63180731c400949195ec5523f91/reading_score_with_removal.png)
 
 The first two of the four charts above are the average scores per grade level of math and reading respectively without the removal of the Thomas High School ninth graders. The last two charts of the four charts above are the average math and reading scores of the grades per school with the removal of the Thomas High School ninth graders. The removal of the Thomas High School ninth graders does not affect anything in this section as it is their specific value being removed. Their value does not factor into calculating the average scores of other schools or grades. The only difference in the two charts is rounding differenced due to the different formatting.
+
+
+Since we have shown there is no correlation between dropping the Thomas High School ninth graders and the performance of Thomas High School with regards to average scores, passing rates, and overall school performance, we can state that replacing the ninth grade scores will have no affect on the relationship between how the school does and its size, budget, or type. 
+
+To summarize the above in a bulleted list
+
+-There are minor changes in the average math scores of the Thomas High School students when the ninth graders are removed, but it is unclear if this is a real change or due to formatting.
+-There is a change of the number of stuents at the school when we drop the ninth graders, but many calculations were done without the adjusted figure.
+-There are small changes to the pass rates when the ninth graders are dropped, but these changes are small.
+-There is a small change in the percentage of pass rates when the ninth graders are dropped, but it did not significantly change the performance of the school compared to other schools.
+-Removing the Thomas High School ninth graders scores do not affect students in other grades or students at other schools when looking at score per grade per school averages
+-Removing the Thomas High School ninth graders does not change the scores by school size, type, or budget since there was no significant change to the scores.
+
+### Summary
+
+The only changes to the dataset when the Thomas High School ninth graders were dropped were changes in the average math scores of Thomas High School, average reading scores of Thomas High School, passing rates of math and reading at Thomas High School, and the overall passing rate at Thomas High School. If the number of students at Thomas High School was adjusted to reflect the missing ninth graders, there may be a change to the scores by school size, but since that was not done in this analysis we can not say if this quantity changed.
