@@ -5,7 +5,7 @@
 
 ### Introduction
 
-Our client, Maria, the chief data scientist for a city school district. We have been contacted to assist with preparing all test data for analysis, reporting, and presentation to provide insights about performance trends and patterns within the various schools within the district.  The overall task we have been hired for is to aggregate the data and show trends in school performance.
+We have been contacted to assist with preparing all test data for analysis, reporting, and presentation to provide insights about performance trends and patterns within the various schools within the district.  The overall task we are working on is to aggregate the data and show trends in school performance.
 
 ### Data Analysis
 
